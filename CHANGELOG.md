@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.35.0 (Unreleased)
+
+#### Changes
+
+- [BREAKING] Removed the accessor procedures from `miden::core::stark::constants`; import its constants instead ([#XXXX](https://github.com/0xMiden/miden-vm/pull/XXXX)).
+
 ## v0.34.0 (2026-09-26)
 
 #### Features
